@@ -17,13 +17,9 @@ CRM de prospecção B2B com gestão de empresas e contatos, pipeline de vendas, 
 - Importação de contatos por CSV e gravação local de áudio de chamadas.
 - Aplicação web React e API Express com persistência SQLite.
 
-## Demonstração visual
+## Imagem do produto
 
-| Dashboard | Power dialer |
-|---|---|
-| ![Tela do CRM](MARKETING%20DE%20PRODUTO/captura%20de%20tela%20de%20aplicativo%20real.png) | ![Tela do discador](MARKETING%20DE%20PRODUTO/captura%20de%20tela%20de%20aplicativo%20real%20-%20discagem.png) |
-
-Vídeo de apresentação: [`MARKETING DE PRODUTO/video preview 1.mp4`](MARKETING%20DE%20PRODUTO/video%20preview%201.mp4).
+A capa do projeto está disponível em [`MARKETING DE PRODUTO/capa preview 1.jpg`](MARKETING%20DE%20PRODUTO/capa%20preview%201.jpg). As capturas detalhadas e o vídeo de apresentação permanecem no diretório de marketing local.
 
 ## Tecnologias
 
@@ -84,7 +80,7 @@ src/                    API Express, SQLite e funções auxiliares
 client/src/             Interface React, chamadas SIP e telas do CRM
 client/android/         Projeto nativo Android/Capacitor
 tests/                  Testes da API
-MARKETING DE PRODUTO/   Capturas e vídeo demonstrativo
+MARKETING DE PRODUTO/   Material visual do produto
 ```
 
 ## Estado e limitações
