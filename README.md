@@ -94,7 +94,7 @@ MARKETING DE PRODUTO/   Material visual do produto
 
 Prospecta CRM is a B2B prospecting CRM with company and contact management, a sales pipeline, tasks, cadences, call history, a local call simulator, SIP calling through JsSIP, and an Android GSM gateway built with Capacitor. It is a portfolio project under development. See the Portuguese sections above for setup and current limitations.
 
-## Licença
+## Licença e direitos autorais
 
-No license has been selected. All rights remain with the author unless a license is added.
+Este projeto é proprietário e todos os direitos sobre o conteúdo original são reservados ao autor. A publicação pública permite visualizar e avaliar o repositório como portfólio; não concede permissão para copiar, modificar, redistribuir, criar derivados ou usar comercialmente o código. Materiais e dependências de terceiros permanecem sob suas próprias licenças. Consulte [LICENSE](LICENSE) para os termos completos e peça autorização por escrito ao autor para outros usos.
 
