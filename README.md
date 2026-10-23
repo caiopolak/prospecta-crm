@@ -22,10 +22,10 @@ CRM de prospecção B2B com gestão de empresas e contatos, pipeline de vendas, 
 A capa do projeto está disponível em [`MARKETING DE PRODUTO/capa preview 1.jpg`](MARKETING%20DE%20PRODUTO/capa%20preview%201.jpg). capturas detalhadas e o vídeo de apresentação permanecem no diretório de marketing.
 
 <p align="center">
-  <img src="MARKETING DE PRODUTO/captura de tela de aplicativo real.png" alt="Tela - discagem do Prospecta CRM" width="350" />
+  <img src="MARKETING DE PRODUTO/captura de tela de aplicativo real.png" alt="Tela - discagem do Prospecta CRM" width="720" />
 </p>
 <p align="center">
-  <img src="MARKETING DE PRODUTO/captura de tela de aplicativo real - discagem.png" alt="Tela - discagem do Prospecta CRM" width="350" />
+  <img src="MARKETING DE PRODUTO/captura de tela de aplicativo real - discagem.png" alt="Tela - discagem do Prospecta CRM" width="720" />
 </p>
 
 ## Tecnologias
