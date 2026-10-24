@@ -5,7 +5,7 @@ CRM de prospecção B2B com gestão de empresas e contatos, pipeline de vendas, 
 > Projeto de portfólio em desenvolvimento. O modo simulador funciona localmente; chamadas reais dependem de uma conta e configuração SIP próprias. O backend ainda não implementa autenticação e deve ser executado apenas em ambiente local/confiável.
 
 <p align="center">
-  <img src="MARKETING DE PRODUTO/Logo Prospecta CRM em Verde Neon.png" alt="Capa do Prospecta CRM" width="720" />
+  <img src="MARKETING DE PRODUTO/capa preview 1.jpg" alt="Capa do Prospecta CRM" width="720" />
 </p>
 
 ## Visão geral
